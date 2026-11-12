@@ -75,9 +75,9 @@ Duomenys yra vieši ir neturi asmens duomenų.
 
 | Modelis | Accuracy | Precision | Recall | F1 | ROC AUC |
 | --- | --- | --- | --- | --- | --- |
-| Baseline: Dummy |  |  |  |  |  |
-| Baseline: LogisticRegression |  |  |  |  |  |
-| Proposed: RandomForest |  |  |  |  |  |
+| Baseline: Dummy | 0.6 |  0.0| 0.0 |0.0  | 0.5 |
+| Baseline: LogisticRegression | 0.63 | 0.531 | 0.652 | 0.585 | 0.697 |
+| Proposed: RandomForest | 0.657 | 0.561 | 0.652 | 0.603 | 0.709 |
 
 ## Ribotumai
 
