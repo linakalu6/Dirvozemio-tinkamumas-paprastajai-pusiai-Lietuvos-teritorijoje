@@ -49,7 +49,7 @@ Duomenys yra vieši ir neturi asmens duomenų.
 | `pusis_02_dirvozemis.ipynb` | Neigiamų pavyzdžių generavimas ir dirvožemio savybių nuskaitymas iš SoilGrids. Sukuria `pusis_su_dirvozemiu.csv` |
 | `pusis_03_modelis.ipynb` | Baseline ir Proposed eksperimentai, metrikos, požymių svarba, SHAP |
 | `requirements.txt` | Naudojamos bibliotekos |
-| `gbif..csv` | GBIF atsisiųsti duomenys (neapdoroti) |
+| gbif_be_vardu.csv` | Iš GBIF failo pašalinti stulpeliai su stebėtojų vardais (recordedBy, identifiedBy, rightsHolder); pilnas failas pasiekiamas per nurodytą GBIF DOI|
 | `metrikos.csv`, `*.png` | Eksperimentų rezultatai |
 
 ## Kaip paleisti
