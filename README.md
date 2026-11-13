@@ -14,10 +14,10 @@ Dvejetainė klasifikacija: `1` = pušis auga, `0` = pušies nėra.
 
 | Nr. | Studentas | Dalis | Sąsiuvinis / failai | Ataskaitos skyriai |
 | --- | --- | --- | --- | --- |
-| 1 | *Lina Kaluskeviciute* | **Problema ir GBIF duomenys.** Problemos analizė, etika ir privatumas, GBIF duomenų atsisiuntimas, valymas, vizualizacija | `pusis_01_duomenys.ipynb`, `gbif..csv` | II, III, IV (GBIF dalis), IX |
-| 2 | *Sigita Bruziene* | **Dirvožemio duomenys.** Lietuvos riba, neigiamų pavyzdžių generavimas, dirvožemio savybių nuskaitymas iš SoilGrids, duomenų kokybė | `pusis_02_dirvozemis.ipynb`, `pusis_su_dirvozemiu.csv` | IV (dirvožemio dalis), VIII (duomenų ribotumai) |
-| 3 | *Svietlana Maslauskiene* | **Modeliai.** Erdvinis duomenų skaidymas, Baseline (Dummy, LogisticRegression), Proposed (RandomForest, hiperparametrų paieška), metrikos, konfuzijos matricos | `pusis_03_modelis.ipynb` (1–8 žingsniai), `metrikos.csv`, `konfuzijos_matricos.png` | VI, VII |
-| 4 | *Mylita Chomentauskiene* | **Paaiškinamumas ir pristatymas.** Požymių svarba, SHAP, sistemos architektūra, repozitorijus (README, requirements), rezultatų aptarimas, modelio ribotumai | `pusis_03_modelis.ipynb` (9–10 žingsniai), `pozymiu_svarba.png`, `shap_santrauka.png`, `README.md`, `requirements.txt` | V, VIII (modelio ribotumai), X |
+| 1 | *1 studentas*| **Problema ir GBIF duomenys.** Problemos analizė, etika ir privatumas, GBIF duomenų atsisiuntimas, valymas, vizualizacija | `pusis_01_duomenys.ipynb`, `gbif..csv` | II, III, IV (GBIF dalis), IX |
+| 2 | *2 studentas* | **Dirvožemio duomenys.** Lietuvos riba, neigiamų pavyzdžių generavimas, dirvožemio savybių nuskaitymas iš SoilGrids, duomenų kokybė | `pusis_02_dirvozemis.ipynb`, `pusis_su_dirvozemiu.csv` | IV (dirvožemio dalis), VIII (duomenų ribotumai) |
+| 3 | *3 studentas* | **Modeliai.** Erdvinis duomenų skaidymas, Baseline (Dummy, LogisticRegression), Proposed (RandomForest, hiperparametrų paieška), metrikos, konfuzijos matricos | `pusis_03_modelis.ipynb` (1–8 žingsniai), `metrikos.csv`, `konfuzijos_matricos.png` | VI, VII |
+| 4 | *4 studentas* | **Paaiškinamumas ir pristatymas.** Požymių svarba, SHAP, sistemos architektūra, repozitorijus (README, requirements), rezultatų aptarimas, modelio ribotumai | `pusis_03_modelis.ipynb` (9–10 žingsniai), `pozymiu_svarba.png`, `shap_santrauka.png`, `README.md`, `requirements.txt` | V, VIII (modelio ribotumai), X |
 
 Kiekvienas grupės narys pristato ir gina savo lentelėje nurodytą dalį.
 
