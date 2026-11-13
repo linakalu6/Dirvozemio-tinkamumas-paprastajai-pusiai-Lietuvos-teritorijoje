@@ -82,7 +82,7 @@ Duomenys yra vieši ir neturi asmens duomenų.
 ## Ribotumai
 
 - Neigiami pavyzdžiai sugeneruoti atsitiktinai (pseudo-neigiami), todėl kai kuriuose iš jų pušis iš tikrųjų galėjo augti.
-- GBIF stebėjimai šališki (telkiasi prie kelių ir gyvenviečių), dalis koordinačių suapvalinta (~1 km).
+- GBIF stebėjimai šališki (telkiasi prie kelių ir gyvenviečių). Koordinačių tikslumas skiriasi: po valymo 83 % taškų turi nurodytą netikslumą (mediana apie 10 m, didžiausia reikšmė apie 26 km), likusiems 17 % netikslumas nenurodytas. Dirvožemio duomenų skiriamoji geba yra 250 m (SoilGrids), todėl ji riboja tikslumą labiau nei GBIF koordinatės.
 - Pušis dažnai sodinama, todėl jos buvimas ne visada rodo natūralų tinkamumą.
 - SoilGrids yra modeliuoti duomenys (250 m skiriamoji geba), ne tiesioginiai matavimai.
 - Rezultatas yra orientacinė rekomendacija, o ne galutinis sprendimas.
